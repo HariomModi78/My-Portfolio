@@ -362,7 +362,6 @@ animation: spred 1s linear forwards;
     }
     .bar{
         justify-content: center;
-        margin-left: 5%;
     }
     .header{
         width: 100%;
