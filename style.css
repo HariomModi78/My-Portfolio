@@ -362,6 +362,7 @@ animation: spred 1s linear forwards;
     }
     .bar{
         justify-content: center;
+        /* margin-left: 5%; */
     }
     .header{
         width: 100%;
@@ -373,4 +374,10 @@ animation: spred 1s linear forwards;
         margin-right: 3rem;
     }
     
+}
+.project1{
+    background-image: url(ticreal.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
